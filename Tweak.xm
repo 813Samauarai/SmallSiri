@@ -1,6 +1,6 @@
 #define kWidth [UIScreen mainScreen].bounds.size.width
 #define kHeight [UIScreen mainScreen].bounds.size.height
-#define isX (kHeight >= 812)
+#define isX (kHeight >= 820)
 
 @interface UIView (ss)
 -(id)_viewControllerForAncestor;
